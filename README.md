@@ -29,21 +29,42 @@
   - MVC vs MVP Vs MVVM vs MVI:	https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
   - Videos:
     - MVP vs MVVM:	https://www.youtube.com/watch?v=ugpC98LcNqA&t=939s
-    - MVVM:	https://www.youtube.com/watch?v=ijXjCtCXcN4
+    - MVVM:	https://www.youtube.com/watch?v=sOrz5GhZNl4&list=PLlxmoA0rQ-LyVuVR1LFvpR1K8A0HsIBYx&index=1
     - MVI:	https://www.youtube.com/watch?v=tIPxSWx5qpk
 
 ## Android Jetpack  
   - Overview: https://blog.mindorks.com/what-is-android-jetpack-and-why-should-we-use-it
   - DataBinding: 
     - BindView: https://umangburman.github.io/MVVM-DataBinding-With-LiveData-Login/
+    - Bind Error: https://www.journaldev.com/22561/android-mvvm-livedata-data-binding
     - Bind RecyclerView: https://yamikrish.blogspot.com/2018/12/databinding-in-recyclerview-android.html
     - DataBinding vs ViewBinding: https://newbedev.com/android-difference-between-databinding-and-viewbinding  
-    - Room: https://medium.com/mindorks/android-architecture-components-room-viewmodel-and-livedata-50611793e4a9    
+    - Room:
       - Overview:	https://medium.com/mindorks/android-architecture-components-room-viewmodel-and-livedata-50611793e4a9
-      - Source code: https://github.com/smartherd/ArchitectureComponentsRoom
+      - Source code: https://github.com/smartherd/ArchitectureComponentsRoom  
+    - Work Manager: https://www.simplifiedcoding.net/android-workmanager-tutorial/
+
+## RetroFit
+  - Fundamentals: https://www.youtube.com/watch?v=tPIdWALEVLc&t=946s
+  - Example:
+    - MVVM, Retrofit: https://www.simplifiedcoding.net/android-viewmodel-using-retrofit/
+    - MVVM, Retrofit,DataBinding  https://androidwave.com/android-data-binding-recyclerview/
+
+## Dagger2
+  - Overview: https://androidwave.com/dagger2-android-example/
+  - Video: https://www.youtube.com/watch?v=Grzqz-B3NWU
+
+## Rxjava
+  - Overview: https://www.journaldev.com/18948/rxjava-tutorial
+  - Parallel & Sequence API call:	https://www.youtube.com/watch?v=vGlyTgIdQQ0
+  - MVVM, RX java, Room, Retrofit
+    - Video:https://www.youtube.com/watch?v=u0pQQywK7S8&list=PL7CGVRj_4Ua04R1uExyyzi-bcKj4D80jO&index=8
+    - SourceCode : https://github.com/Vishulucky/RetrofitExample
+
+## Mqtt
+  - https://medium.com/@gaikwadchetan93/android-real-time-communication-using-mqtt-9ea42551475d
+	-	https://androidkt.com/android-mqtt/
   
-  - Work Manager: https://www.simplifiedcoding.net/android-workmanager-tutorial/
-  - 
 
 
 
