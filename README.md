@@ -1,6 +1,10 @@
 # Android Reference Links
 
-- Get Started
-  - https://www.tutlane.com/tutorial/android/android-tutorial
-  - https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-1-build-your-first-app/1-0-c-introduction-to-android/1-0-c-introduction-to-android.html
+- Get Started: https://www.tutlane.com/tutorial/android
+  - Android Architecture [Activities, Intents, Content Providers, Broadcast Receivers,Services]
+
+- Fragments: https://blog.mindorks.com/android-fragments-and-its-lifecycle
+  - Add vs Replace: https://stackoverflow.com/questions/18634207/difference-between-add-replace-and-addtobackstack
+
+
 
