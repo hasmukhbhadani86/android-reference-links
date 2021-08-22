@@ -16,7 +16,7 @@
   - https://www.tutorialspoint.com/android/android_intents_filters.htm
 
 - Fragments: 
-  - Life Cycle:     https://blog.mindorks.com/android-fragments-and-its-lifecycle
+  - Lifecycle:     https://blog.mindorks.com/android-fragments-and-its-lifecycle
   - Add vs Replace: https://stackoverflow.com/questions/18634207/difference-between-add-replace-and-addtobackstack
 
 - Launch Mode:
@@ -26,7 +26,11 @@
 
 ## Advance Android
 
-
+  - Android Jetpack
+  - Overview: https://blog.mindorks.com/what-is-android-jetpack-and-why-should-we-use-it
+  - DataBinding vs ViewBinding
+    - https://newbedev.com/android-difference-between-databinding-and-viewbinding
+  - Work Manager: https://www.simplifiedcoding.net/android-workmanager-tutorial/
 
 
 
