@@ -48,7 +48,7 @@
   - Fundamentals: https://www.youtube.com/watch?v=tPIdWALEVLc&t=946s
   - Example:
     - MVVM, Retrofit: https://www.simplifiedcoding.net/android-viewmodel-using-retrofit/
-    - MVVM, Retrofit,DataBinding  https://androidwave.com/android-data-binding-recyclerview/
+    - MVVM, Retrofit,DataBinding:  https://androidwave.com/android-data-binding-recyclerview/
 
 ## Dagger2
   - Overview: https://androidwave.com/dagger2-android-example/
@@ -63,7 +63,7 @@
 
 ## Mqtt
   - https://medium.com/@gaikwadchetan93/android-real-time-communication-using-mqtt-9ea42551475d
-	-	https://androidkt.com/android-mqtt/
+  - https://androidkt.com/android-mqtt/
   
 
 
