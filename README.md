@@ -68,4 +68,6 @@
   - https://androidkt.com/android-mqtt/
 
 
-
+#Interview Questions:
+  - What is ktx? : https://blog.mindorks.com/android-ktx-android-development-with-kotlin
+  - 
