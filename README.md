@@ -42,7 +42,9 @@
     - Room:
       - Overview:	https://medium.com/mindorks/android-architecture-components-room-viewmodel-and-livedata-50611793e4a9
       - Source code: https://github.com/smartherd/ArchitectureComponentsRoom  
-    - Work Manager: https://www.simplifiedcoding.net/android-workmanager-tutorial/
+    - Work Manager:
+       - Overview:	https://www.simplifiedcoding.net/android-workmanager-tutorial/
+       - Background location update: https://dev.to/bigyan4424/workmanager-for-background-location-updates-fog    
 
 ## RetroFit
   - Fundamentals: https://www.youtube.com/watch?v=tPIdWALEVLc&t=946s
@@ -64,7 +66,6 @@
 ## Mqtt
   - https://medium.com/@gaikwadchetan93/android-real-time-communication-using-mqtt-9ea42551475d
   - https://androidkt.com/android-mqtt/
-  
 
 
 
