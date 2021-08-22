@@ -24,10 +24,25 @@
   - Difference B\W [standard ,singleTop, singleTask, singleInstance ]
   - https://stackoverflow.com/questions/25773928/setting-launchmode-singletask-vs-setting-activity-launchmode-singletop
 
+## MVVM Architectural Pattern  
+  - Overview https://codingwithmitch.com/blog/getting-started-with-mvvm-android/
+  - MVC vs MVP Vs MVVM vs MVI:	https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+  - Videos:
+    - MVP vs MVVM:	https://www.youtube.com/watch?v=ugpC98LcNqA&t=939s
+    - MVVM:	https://www.youtube.com/watch?v=ijXjCtCXcN4
+    - MVI:	https://www.youtube.com/watch?v=tIPxSWx5qpk
+
 ## Android Jetpack  
   - Overview: https://blog.mindorks.com/what-is-android-jetpack-and-why-should-we-use-it
-  - DataBinding vs ViewBinding: https://newbedev.com/android-difference-between-databinding-and-viewbinding
+  - DataBinding: 
+    - BindView: https://umangburman.github.io/MVVM-DataBinding-With-LiveData-Login/
+    - Bind RecyclerView: https://yamikrish.blogspot.com/2018/12/databinding-in-recyclerview-android.html
+    - DataBinding vs ViewBinding: https://newbedev.com/android-difference-between-databinding-and-viewbinding
+  
+  - Room:  
+  
   - Work Manager: https://www.simplifiedcoding.net/android-workmanager-tutorial/
+  - 
 
 
 
