@@ -24,12 +24,9 @@
   - Difference B\W [standard ,singleTop, singleTask, singleInstance ]
   - https://stackoverflow.com/questions/25773928/setting-launchmode-singletask-vs-setting-activity-launchmode-singletop
 
-## Advance Android
-
-  - Android Jetpack
+## Android Jetpack  
   - Overview: https://blog.mindorks.com/what-is-android-jetpack-and-why-should-we-use-it
-  - DataBinding vs ViewBinding
-    - https://newbedev.com/android-difference-between-databinding-and-viewbinding
+  - DataBinding vs ViewBinding: https://newbedev.com/android-difference-between-databinding-and-viewbinding
   - Work Manager: https://www.simplifiedcoding.net/android-workmanager-tutorial/
 
 
