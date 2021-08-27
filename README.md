@@ -69,5 +69,9 @@
 
 
 #Interview Questions:
-  - What is ktx? : https://blog.mindorks.com/android-ktx-android-development-with-kotlin
-  - 
+  - What is ktx : https://blog.mindorks.com/android-ktx-android-development-with-kotlin
+  - HTTP Caching: 
+    - https://www.journaldev.com/23297/android-retrofit-okhttp-offline-caching
+    - https://medium.com/@bapspatil/caching-with-retrofit-store-responses-offline-71439ed32fda
+  - How to make a global error class for Retrofit errors:
+    - https://futurestud.io/tutorials/retrofit-2-catch-server-errors-globally-with-response-interceptor
