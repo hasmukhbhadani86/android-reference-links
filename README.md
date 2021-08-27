@@ -83,8 +83,11 @@
     - https://riggaroo.dev/constraintlayout-guidelines-barriers-chains-groups/
 
   - How to update observer using livedata only once: https://blog.mindorks.com/observe-event-only-once-using-single-live-event
-  - 
+ 
   - Livedata vs MutableLiveData : 
     - MutableLiveData is a LiveData object whose value can be changed. MutableLiveData is a generic class, so you need to specify the type of data     that it holds. To change the       value of the data held by the LiveData , use the setValue() method on the LiveData variable.
+
+  - Set Value vs Post value : https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android
+  - 
 
 
