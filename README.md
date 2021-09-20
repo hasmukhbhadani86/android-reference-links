@@ -60,6 +60,10 @@
   - Overview: https://androidwave.com/dagger2-android-example/
   - Video: https://www.youtube.com/watch?v=Grzqz-B3NWU
 
+## Dagger Hilt
+- Overview: https://blog.mindorks.com/dagger-hilt-tutorial
+- PlayList: https://www.youtube.com/playlist?list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo
+
 ## Rxjava
   - Overview: https://www.journaldev.com/18948/rxjava-tutorial
   - Parallel & Sequence API call:	https://www.youtube.com/watch?v=vGlyTgIdQQ0
