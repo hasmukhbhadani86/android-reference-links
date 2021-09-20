@@ -32,6 +32,7 @@
   - Videos:
     - MVP vs MVVM:	https://www.youtube.com/watch?v=ugpC98LcNqA&t=939s
     - MVVM:	https://www.youtube.com/watch?v=sOrz5GhZNl4&list=PLlxmoA0rQ-LyVuVR1LFvpR1K8A0HsIBYx&index=1
+          - https://www.youtube.com/watch?v=R-X2nM3d2FI&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2&index=1
     - MVI:	https://www.youtube.com/watch?v=tIPxSWx5qpk
 
 ## Android Jetpack  
