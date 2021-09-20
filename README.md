@@ -71,6 +71,9 @@
   - https://medium.com/@gaikwadchetan93/android-real-time-communication-using-mqtt-9ea42551475d
   - https://androidkt.com/android-mqtt/
 
+## Jetpack Compose
+  - PlayList: https://www.youtube.com/watch?v=tl8RLM6Sy9s&list=PL4EnMCc01RC0B9kmeZq7xUGpd0wlQkd40&index=1
+
 
 # Interview Questions:
   - What is ktx : https://blog.mindorks.com/android-ktx-android-development-with-kotlin
