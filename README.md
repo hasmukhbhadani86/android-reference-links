@@ -3,6 +3,8 @@
 - Get Started: https://www.tutlane.com/tutorial/android
   - Android App components [Activities, Intents, Content Providers, Broadcast Receivers,Services]
   - Intent, Intent filter, storage types.
+  - Videos:
+    - Activity LifeCycle: https://www.youtube.com/results?search_query=activity+life+cycle+of+android
 
 - Service: 
   - Overview: https://www.tutlane.com/tutorial/android/android-services-with-examples
