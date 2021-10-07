@@ -1,8 +1,7 @@
 # Android Reference Links
 
 - Get Started: https://www.tutlane.com/tutorial/android
-  - Android App components [Activities, Intents, Content Providers, Broadcast Receivers,Services]
-  - Intent, Intent filter, storage types.  
+  - Android App components [Activities, Intents, Content Providers, Broadcast Receivers,Services]  
     - Activity LifeCycle: https://www.youtube.com/results?search_query=activity+life+cycle+of+android
     - Intent & Intent Filter: https://www.tutorialspoint.com/android/android_intents_filters.htm
 
