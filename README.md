@@ -12,6 +12,7 @@
 - Diffence B\W [Service, Thread, IntentService and AsyncTask]
   - https://androidcreativity.wordpress.com/2017/09/02/difference-bw-service-thread-intentservice-and-asynctask/
   - https://medium.com/@varun93342/difference-between-thread-service-and-asynctask-in-android-d6e37960e56c
+  - Service vs IntentService: https://www.geeksforgeeks.org/difference-between-service-and-intentservice-in-android/
 
 - Sensor: https://www.javatpoint.com/android-sensor-tutorial 
 
