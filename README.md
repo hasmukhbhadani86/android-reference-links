@@ -15,9 +15,6 @@
 
 - Sensor: https://www.javatpoint.com/android-sensor-tutorial 
 
-- Intent Filter: 
-  - https://www.tutorialspoint.com/android/android_intents_filters.htm
-
 - Fragments: 
   - Lifecycle:     https://blog.mindorks.com/android-fragments-and-its-lifecycle
   - Add vs Replace: https://stackoverflow.com/questions/18634207/difference-between-add-replace-and-addtobackstack
