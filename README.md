@@ -4,7 +4,7 @@
   - Android App components [Activities, Intents, Content Providers, Broadcast Receivers,Services]  
     - Activity LifeCycle: https://www.youtube.com/results?search_query=activity+life+cycle+of+android
     - Intent & Intent Filter: https://www.tutorialspoint.com/android/android_intents_filters.htm
-    - Sticky intent and Pending intent: Sticky Intent : sticky intents are associated with the android system for the future broadcast events. Pending Intent : Those intent which you want to trigger at some time in future when you application is not alive.This intent will stick with android system for future broadcast receiver requests
+    - Sticky intent Vs Pending intent: Sticky Intent : sticky intents are associated with the android system for the future broadcast events. Pending Intent : Those intent which you want to trigger at some time in future when you application is not alive.This intent will stick with android system for future broadcast receiver requests
 
 - Service: 
   - Overview: https://www.tutlane.com/tutorial/android/android-services-with-examples
