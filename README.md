@@ -119,6 +119,6 @@
  - Pref data source.
 
 # Demos
- -Signup/Login Flow: MVVM + HILT + Coroutines + Retrofit + Interceptors for Authenticated Flows.
+ - Signup/Login Flow: MVVM + HILT + Coroutines + Retrofit + Interceptors for Authenticated Flows.
   - https://github.com/CheezyCode/YetAnotherNotesApp
 
