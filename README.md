@@ -64,7 +64,7 @@
 ## Dagger Hilt
 - Overview: https://blog.mindorks.com/dagger-hilt-tutorial
 - PlayList: 
-  -- https://www.youtube.com/playlist?list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo
+  - https://www.youtube.com/playlist?list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo
   - https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf&index=1
 
 ## Rxjava
