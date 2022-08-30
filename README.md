@@ -66,6 +66,7 @@
 - PlayList: 
   - https://www.youtube.com/playlist?list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo
   - https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf&index=1
+  - Demo App: https://www.youtube.com/watch?v=8ZLbv6TSa-U&list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS 
 
 ## Rxjava
   - Overview: https://www.journaldev.com/18948/rxjava-tutorial
@@ -117,4 +118,7 @@
  - Android jetpack compose.
  - Pref data source.
 
+# Demos
+ -Signup/Login Flow: MVVM + HILT + Coroutines + Retrofit + Interceptors for Authenticated Flows.
+  - https://github.com/CheezyCode/YetAnotherNotesApp
 
