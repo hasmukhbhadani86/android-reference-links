@@ -122,3 +122,7 @@
  - Signup/Login Flow: MVVM + HILT + Coroutines + Retrofit + Interceptors for Authenticated Flows.
   - https://github.com/CheezyCode/YetAnotherNotesApp
 
+# UltimateAndroidReference
+  The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials
+  - https://github.com/uditbhaskar/UltimateAndroidReference
+
